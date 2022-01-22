@@ -19,7 +19,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
             alt="vuejs" width="40" height="40"/> </a>
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg"
+            src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg"
             alt="C-Sharp" width="40" height="40"/> </a><a href="https://spring.io/projects/spring-boot" target="_blank"> <img
             src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg"
             alt="C-Sharp" width="40" height="40"/> </a><a href="https://spring.io/projects/spring-boot" target="_blank"> <img
