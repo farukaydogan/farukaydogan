@@ -23,8 +23,8 @@
             alt="C-Sharp" width="40" height="40"/> </a><a href="https://spring.io/projects/spring-boot" target="_blank"> <img
             src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg"
             alt="C-Sharp" width="40" height="40"/> </a><a href="https://spring.io/projects/spring-boot" target="_blank"> <img
-            src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png"
-            alt="C-Sharp" width="40" height="40"/> </a>
+            src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"
+            alt="C-Sharp" width="245" height="40"/> </a>
     
 </p>
 
