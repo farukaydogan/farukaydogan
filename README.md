@@ -8,10 +8,8 @@
     <a href="https://linkedin.com/in/farukkaydogan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="farukkaydogan" height="30" width="40" /></a>
     <a href="mailto:faruktayyibaydogan.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="farukkaydogan" height="30" width="40" /></a>
     <h3 align="left">Languages and Tools:</h3><p align="left">
-    
-    <a href="https://www.java.com/en/" target="_blank"> <img
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg"
-            alt="C-Sharp" width="40" height="40"/> </a>
+  
+   
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank"> <img
@@ -25,6 +23,9 @@
             alt="vuejs" width="40" height="40"/> </a>
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg"
+            alt="C-Sharp" width="40" height="40"/> </a>
+    <a href="https://www.java.com/en/" target="_blank"> <img
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg"
             alt="C-Sharp" width="40" height="40"/> </a>
 </p>
 
