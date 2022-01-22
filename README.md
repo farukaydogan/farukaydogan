@@ -23,7 +23,7 @@
             alt="C-Sharp" width="40" height="40"/> </a><a href="https://spring.io/projects/spring-boot" target="_blank"> <img
             src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg"
             alt="C-Sharp" width="40" height="40"/> </a><a href="https://spring.io/projects/spring-boot" target="_blank"> <img
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg"
+            src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png"
             alt="C-Sharp" width="40" height="40"/> </a>
     
 </p>
