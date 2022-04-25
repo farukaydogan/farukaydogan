@@ -23,7 +23,7 @@
         alt="vuejs" width="40" height="40"/> </a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg"
-            alt="C-Sharp" width="40" height="40"/> </a><a href="https://spring.io/projects/spring-boot" target="_blank"> <img
+            alt="C-Sharp" width="40" height="40"/> </a><a href="https://www.java.com/en/" target="_blank"> <img
             src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg"
             alt="C-Sharp" width="40" height="40"/> </a><a href="https://laravel.com/" target="_blank"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/50px-Laravel.svg.png?20190820171151"
