@@ -6,6 +6,7 @@
 
 <h3 align="center">Connect with me:</h3>
 
+
 <p align="center">
     <a href="https://linkedin.com/in/farukkaydogan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="farukkaydogan" height="30" width="40" /></a>
     <a href="mailto:faruktayyibaydogan.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="farukkaydogan" height="30" width="40" /></a>
@@ -26,9 +27,10 @@
             src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg"
             alt="C-Sharp" width="40" height="40"/> </a><a href="https://spring.io/projects/spring-boot" target="_blank"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/50px-Laravel.svg.png?20190820171151"
-            alt="C-Sharp" width="245" height="40"/> </a>
+            alt="C-Sharp" width="50" height="52"/> </a>
 
 </p>
+
 
 
                 
