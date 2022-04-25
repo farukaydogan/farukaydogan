@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Faruk Aydogan 👋</h1>
 <h3 align="center">Junior Bacend Developer </h3>
 <h4 align="center"><a href="https://farukaydogan.com">My Web Site </a></h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farukkaydogan&label=Profile%20views&color=0e75b6&style=flat" alt="farukkaydogan" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farukkaydogan" alt="farukkaydogan" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=farukkaydogan&label=Profile%20views&color=0e75b6&style=flat" alt="farukkaydogan" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farukkaydogan" alt="farukkaydogan" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
