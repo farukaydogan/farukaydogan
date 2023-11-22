@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Faruk Aydogan 👋</h1>
-<h3 align="center">Junior Bacend Developer </h3>
+<h3 align="center">Full Stack Developer </h3>
 <h4 align="center"><a href="https://farukaydogan.com">My Web Site </a></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=farukaydogan&label=Profile%20views&color=0e75b6&style=flat" alt="farukaydogan" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farukaydogan" alt="farukaydogan" /></a> </p>
@@ -27,7 +27,7 @@
             src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg"
             alt="C-Sharp" width="40" height="40"/> </a><a href="https://laravel.com/" target="_blank"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/50px-Laravel.svg.png?20190820171151"
-            alt="Laravel Junior Developer" width="50" height="52"/> </a>
+            alt="Laravel Full Stack Developer" width="50" height="52"/> </a>
 
 </p>
 
